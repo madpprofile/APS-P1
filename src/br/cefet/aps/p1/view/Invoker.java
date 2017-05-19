@@ -12,7 +12,7 @@ public class Invoker {
 		commands.put("addPropina", new InsertPropinaCommand());
 		commands.put("updatePropina", new UpdatePropina());
 		commands.put("deletePropina", new DeletePropinaCommand());
-		commands.put("listPropinass", new ListPropinasCommand());
+		commands.put("listPropinas", new ListPropinasCommand());
 		
 	}
 	

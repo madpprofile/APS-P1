@@ -21,7 +21,7 @@ public class UserInterface {
 				"Usage:\n\n" +
 				"[command] [parameters]\n\n" +
 				"[command] options:\n" +
-				"\taddPropina, updatePropina, deletePropina, listPropinas\n" 
+				"\taddPropina, updatePropina, deletePropina, listPropinas, exit\n" 
 			);
 	}
 

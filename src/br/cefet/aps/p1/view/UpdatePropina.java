@@ -29,7 +29,7 @@ public class UpdatePropina implements Command {
 	
 	public void usage(){
 		System.out.println(
-						"Usage: oldId insert id data tipoFavorecido apelido tipoFavorecimento descricao estado\n" +
+						"Usage: insertPropina [oldId] [id] [data] [tipoFavorecido] [apelido] [tipoFavorecimento] [descricao] [estado]\n" +
 						"tipoFavorecido: 0 - Pessoa publica | 1 - Pessoa Privada\n" +
 						"tipoFavorecimento: 0 - Favor Político | 1 - Vantagem em Licitação | 2 - Informação Privilaegiada |" +
 						" 3 - Doação de Campanha\n" +
